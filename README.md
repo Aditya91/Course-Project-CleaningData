@@ -6,6 +6,7 @@ The repository includes the following files:
 
 - 'README.md'
 
+- 'Documents': **This folder has a sub-folder 'repo' which has the following two files**
 - 'CodeBook.pdf': Shows information about the variables of the tidy dataset submitted (output) and the different operations performed on the raw datasets to obtain the tidy dataset
 
 - 'run_analysis.R': The R script with the complete R code on how to transform the raw data to tidy dataset as specified by the problem requirements
